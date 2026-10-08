@@ -1,0 +1,24 @@
+{
+  "jiraBaseUrl": "https://bandadev.atlassian.net",
+  "jiraEmail": "mihail_unity.developer@trafficdevils.net",
+  "jiraToken": "ATATT3xFfGF0lpNFGGG0jkSDqAlU6nB7nOAlMalI5TerkFG3ZhCn-HeWPQZyAGiFf6CoFn8cqHgMAx-RYHpjWB1i66_PFepIJCRTdkJzOI1rC4QjjwOgmq-Efeo0lTvB9aH50Qa8lObqGUY42RNAQqH2n5hGc3p1Lq7Khxnb0TUmpxLsE-sdW3s=C2A69092",
+  "jiraIssue": "3153",
+  "appName": "AviaRise",
+  "packageName": "com.mNbVcXz.lKjHgFd",
+  "versionCode": 1,
+  "versionName": "1.0",
+  "encryption": "typex",
+  "npmInstall": true,
+  "readyBuildsDir": "C:\\Users\\EvoReD\\Desktop\\ReadyBuilds",
+  "helperRoot": "E:\\TD\\CursorExtensions\\ReactNativeAppHelperExtension\\vscode-rn-app-helper-root",
+  "decoy": {
+    "androidAddMin": 10,
+    "androidAddMax": 16,
+    "servicesAddMin": 4,
+    "servicesAddMax": 13,
+    "minGap": 5
+  },
+  "adjustToken": "jryg8l16jy80",
+  "hostFragment": "sulstpcivpb431i5t3",
+  "hostFragmentBoundTo": "3153|com.mNbVcXz.lKjHgFd"
+}
